@@ -1,0 +1,4 @@
+#Wed Feb 01 10:48:16 IST 2023
+base.0=/Users/parthasarathyk/Documents/GitHub/FlutterGooglemapwithCurrentLocation/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
