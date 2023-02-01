@@ -35,12 +35,6 @@ flutter run
 ```
 ### ✌&ensp;Preview
 
-|                Preview                 | 
-|:--------------------------------------:|
-| <img src="map_sample.png" width="350"> | 
-
-
-
-|           Current Location Preview           | 
-|:--------------------------------------------:|
-| <img src="current_location.png" width="350"> | 
+|                 Preview                  |     Current Location Preview        |
+|:-------------------------------------:|:--------------------------------------:|
+| <img src="map_sample.png" width="350"> | <img src="current_location.png" width="350"> |
