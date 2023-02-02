@@ -30,7 +30,7 @@
         </activity>
        <!-- TODO: Add your Google Maps API key here -->
        <meta-data android:name="com.google.android.geo.API_KEY"
-           android:value="AIzaSyDHeUmh71ssI5zr8McuSiFJy22xG_XuoFs"/>
+           android:value="**********************************"/>
 
        <!-- Don't delete the meta-data below.
             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
