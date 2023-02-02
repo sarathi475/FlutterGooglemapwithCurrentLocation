@@ -18,7 +18,12 @@ Google map and current Location find sample concept tried. if you want clone or 
 2. Dart 2.18.6
 3. google_maps_flutter: ^2.2.3
 4. geolocator: ^9.0.2
-
+## add below line in android app : android/app/src/main/AndroidManifest.xml
+```
+<!-- TODO: Add your Google Maps API key here -->
+ <meta-data android:name="com.google.android.geo.API_KEY"
+ android:value="**********************************"/>
+```
 # Cli command
 ## check your flutter support info:
 
